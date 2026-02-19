@@ -1,7 +1,7 @@
 # Hi, I'm Andor Luhović 👋
 
 ## About Me
-- Project Manager at **AxiomQ**
+- Project Manager at **BeeIT**
 - Focused on building digital products and improving team workflows
 - Combining product management, project management, and technical skills
 - Learning software development to better bridge business and technology
